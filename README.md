@@ -17,3 +17,17 @@ This project presents a Mobile Sales Dashboard built in Power BI using Excel dat
    - Total Sales by Mobile Model
     - Total Sales by Day of the Week
 - **Filters**: Mobile Model, Brand, Payment Method
+
+### 2. **MTD (Month-to-Date) Report Page**
+- MTD sales growth chart (daily trend for the month)
+- KPIs for selected month: Sales, Quantity, Transactions, Avg. Price
+- Filters: Month, Mobile Model, Payment Method
+
+### 3. **Same Period Last Year Comparison Page**
+- Year-over-Year (YoY) Sales Comparison by:
+  - Year
+  - Quarter
+  - Month
+- Bar Charts – Current vs Previous Year sales
+- Table – Quarterly total sales with previous year's data
+
