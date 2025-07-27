@@ -55,7 +55,7 @@ This project presents a Mobile Sales Dashboard built in Power BI using Excel dat
 ---
 ## Insights from the Dashboard
 
-- High sales in cities like **Mumbai, Delhi, Bangalore**.
+- High sales in cities like **Mumbai, Delhi, Ranchi**.
 - Most popular mobile models: **iPhone SE**, **OnePlus Nord**, **Galaxy Note 20**.
 - Majority of transactions via **UPI** and **Credit Card**.
 - Sales peak on **Monday and Friday**.
