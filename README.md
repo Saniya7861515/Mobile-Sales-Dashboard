@@ -62,7 +62,7 @@ This project presents a Mobile Sales Dashboard built in Power BI using Excel dat
 - Year-on-Year sales show growth from **2022 to 2024**.
 
 ## 🗂 Project Files Included
-- Data:<a href "https://github.com/Saniya7861515/Mobile-Sales-Dashboard/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx"</a>
+- Data: https://github.com/Saniya7861515/Mobile-Sales-Dashboard/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx
 - Dashboard:
 - Images:
 
