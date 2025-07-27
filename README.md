@@ -53,5 +53,12 @@ This project presents a Mobile Sales Dashboard built in Power BI using Excel dat
 - **Same Period Last Year** = CALCULATE([Total_Sales],
  SAMEPERIODLASTYEAR(custom_calendar[Date]))
 ---
+## Insights from the Dashboard
+
+- High sales in cities like **Mumbai, Delhi, Bangalore**.
+- Most popular mobile models: **iPhone SE**, **OnePlus Nord**, **Galaxy Note 20**.
+- Majority of transactions via **UPI** and **Credit Card**.
+- Sales peak on **Monday and Friday**.
+- Year-on-Year sales show growth from **2022 to 2024**.
 
 
