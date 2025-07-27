@@ -65,6 +65,9 @@ This project presents a Mobile Sales Dashboard built in Power BI using Excel dat
 - Data: https://github.com/Saniya7861515/Mobile-Sales-Dashboard/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx
 - Dashboard:https://github.com/Saniya7861515/Mobile-Sales-Dashboard/blob/main/Dashboard%20of%20Mobile%20Sales.pbix
 - Images:<img width="1242" height="686" alt="Screenshot 2025-04-25 105029" src="https://github.com/user-attachments/assets/065cdfe1-2836-465f-8843-0bee2fce5b41" />
+<img width="1250" height="690" alt="Screenshot 2025-07-23 141607" src="https://github.com/user-attachments/assets/c72c6c2f-9034-434e-8651-8ba83a255338" />
+<img width="1229" height="691" alt="Screenshot 2025-07-25 222240" src="https://github.com/user-attachments/assets/1a891772-0e34-4581-b813-6c921a4eb5cc" />
+
 
 
 
