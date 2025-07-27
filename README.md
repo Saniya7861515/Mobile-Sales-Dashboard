@@ -30,4 +30,15 @@ This project presents a Mobile Sales Dashboard built in Power BI using Excel dat
   - Month
 - Bar Charts – Current vs Previous Year sales
 - Table – Quarterly total sales with previous year's data
+---
+
+## 🧰 Tools & Techniques Used
+
+| Tool/Feature            | Description |
+|-------------------------|-------------|
+| **Power BI Desktop**    | Dashboard design, interactive visuals |
+| **Excel**               | Data Source (uploaded file) |
+| **Power Query Editor**  | Data cleaning, column transformation, data types |
+| **DAX (Data Analysis Expressions)** | Calculated Columns and Measures |
+
 
