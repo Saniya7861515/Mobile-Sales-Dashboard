@@ -2,7 +2,7 @@
 This project presents a Mobile Sales Dashboard built in Power BI using Excel data. It provides clear and interactive visualizations to help understand mobile sales performance across India, analyze customer behavior, and track business KPIs.
 ##  Key Features of the Dashboard
 
-# 1. **Dashboard Page**
+### 1. **Dashboard Page**
 - **KPIs Displayed**:
   - Total Sales: 769M
   - Total Quantity Sold: 19K
