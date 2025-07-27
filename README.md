@@ -40,5 +40,18 @@ This project presents a Mobile Sales Dashboard built in Power BI using Excel dat
 | **Excel**               | Data Source (uploaded file) |
 | **Power Query Editor**  | Data cleaning, column transformation, data types |
 | **DAX (Data Analysis Expressions)** | Calculated Columns and Measures |
+---
+
+## 📐 Important DAX Formulas Used
+
+- **Total Sales** =  SUMX('Mobile _Sales_ Data','Mobile _Sales_ Data'[Units Sold]*'Mobile _Sales_ Data'[Price Per Unit])
+
+- **Average Price** =  AVERAGE('Mobile _Sales_ Data'[Price Per Unit])
+
+- **MTD Sales** = TOTALMTD([Total_Sales],custom_calendar[Date].[Date])
+
+- **Same Period Last Year** = CALCULATE([Total_Sales],
+ SAMEPERIODLASTYEAR(custom_calendar[Date]))
+---
 
 
