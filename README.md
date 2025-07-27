@@ -32,7 +32,7 @@ This project presents a Mobile Sales Dashboard built in Power BI using Excel dat
 - Table – Quarterly total sales with previous year's data
 ---
 
-## 🧰 Tools & Techniques Used
+## Tools & Techniques Used
 
 | Tool/Feature            | Description |
 |-------------------------|-------------|
@@ -42,7 +42,7 @@ This project presents a Mobile Sales Dashboard built in Power BI using Excel dat
 | **DAX (Data Analysis Expressions)** | Calculated Columns and Measures |
 ---
 
-## 📐 Important DAX Formulas Used
+## Important DAX Formulas Used
 
 - **Total Sales** =  SUMX('Mobile _Sales_ Data','Mobile _Sales_ Data'[Units Sold]*'Mobile _Sales_ Data'[Price Per Unit])
 
